@@ -119,7 +119,7 @@
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'G-3XPBT7BZ10');
+gtag('config', 'G-3XPBT7BZ10');
   </script>
   <style>
     .myoverlay {
@@ -133,7 +133,8 @@
 	</head>
 	<body data-w-id="6274e07047f2422cc12c877d">
     {% include "header.njk" %}
-			{{ content | safe }}
-		{%- js %}{% include "public/js/webflow.js" %}{% endjs %}
+    {{ content | safe }}
+    {% include "footer.njk" %}
+		{% js %}{% include "./public/js/webflow.js" %}{% endjs %}
 	</body>
 </html>
