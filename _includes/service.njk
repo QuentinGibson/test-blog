@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+---
+
+{# Only include the syntax highlighter CSS on blog posts #}
+
+<section class="section banner-career">
+  <div class="base-container w-container">
+    <div class="banner-title-wrapper services">
+      <h1 class="banner-title">{{title}}</h1>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="base-container w-container">
+    <div class="service-details-content">
+      {{content | safe}}
+    </div>
+  </div>
+</section>
+
+<section class="section parallax-background"><div class="base-container w-container"><div class="free-trial-wrapper"><h2 class="free-trial-title">Trusted By More Than <span class="orange-box-h2">1,000 Happy Construction Managers.</span></h2><a href="/contact-us" class="primary-button w-button">Contact Us</a></div></div></section>

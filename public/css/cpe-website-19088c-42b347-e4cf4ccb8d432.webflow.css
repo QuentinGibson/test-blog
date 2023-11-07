@@ -197,7 +197,7 @@ label {
 blockquote {
   border-left: 3px solid var(--primary);
   background-color: rgba(0, 0, 0, 0);
-  background-image: url('../images/“.svg');
+  background-image: url('/images/“.svg');
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: 25px;
@@ -223,7 +223,7 @@ blockquote {
 
 .section.blog-grid-banner {
   min-height: 450px;
-  background-image: url('../images/Slide-1-New-2-1.jpg');
+  background-image: url('/images/Slide-1-New-2-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -241,7 +241,7 @@ blockquote {
 .section.banner-our-team {
   min-height: 450px;
   background-color: var(--primary);
-  background-image: linear-gradient(rgba(12, 49, 52, .7), rgba(12, 49, 52, .7)), url('../images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
+  background-image: linear-gradient(rgba(12, 49, 52, .7), rgba(12, 49, 52, .7)), url('/images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -254,7 +254,7 @@ blockquote {
 
 .section.banner-career {
   min-height: 450px;
-  background-image: url('../images/Testemonials-Green-1-2.jpg');
+  background-image: url('/images/Testemonials-Green-1-2.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -271,7 +271,7 @@ blockquote {
 
 .section.job-position-banner {
   min-height: 450px;
-  background-image: url('../images/Testemonials-Green-1-2.jpg');
+  background-image: url('/images/Testemonials-Green-1-2.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -284,7 +284,7 @@ blockquote {
 
 .section.contacts-banner {
   min-height: 450px;
-  background-image: url('../images/Banner-Home-3-2-1-1.jpg');
+  background-image: url('/images/Banner-Home-3-2-1-1.jpg');
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -297,7 +297,7 @@ blockquote {
 }
 
 .section.contacts-2-banner {
-  background-image: linear-gradient(rgba(16, 57, 59, .7), rgba(16, 57, 59, .7)), url('../images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
+  background-image: linear-gradient(rgba(16, 57, 59, .7), rgba(16, 57, 59, .7)), url('/images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -310,7 +310,7 @@ blockquote {
 }
 
 .section.contacts-3-banner {
-  background-image: url('../images/Slide-1-New-2-1.jpg');
+  background-image: url('/images/Slide-1-New-2-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -320,7 +320,7 @@ blockquote {
 .section.banner-faq {
   min-height: 450px;
   background-color: var(--primary);
-  background-image: linear-gradient(to top, #0c3134, rgba(0, 0, 0, 0) 88%), url('../images/Slide-1-New-2-1.jpg');
+  background-image: linear-gradient(to top, #0c3134, rgba(0, 0, 0, 0) 88%), url('/images/Slide-1-New-2-1.jpg');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -333,7 +333,7 @@ blockquote {
 
 .section.banner-customers {
   min-height: 550px;
-  background-image: url('../images/Banner-Home-3-2-1-1.jpg');
+  background-image: url('/images/Banner-Home-3-2-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -346,7 +346,7 @@ blockquote {
 
 .section.banner-testimonials {
   min-height: 600px;
-  background-image: url('../images/Banner-Home-3-2-1-1.jpg');
+  background-image: url('/images/Banner-Home-3-2-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -360,7 +360,7 @@ blockquote {
 
 .section.about-us-banner {
   min-height: 550px;
-  background-image: url('../images/Testemonials-Green-1-2.jpg');
+  background-image: url('/images/Testemonials-Green-1-2.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -372,7 +372,7 @@ blockquote {
 }
 
 .section.image-background {
-  background-image: url('../images/Banner-Home-3-2-1-1.jpg');
+  background-image: url('/images/Banner-Home-3-2-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -385,7 +385,7 @@ blockquote {
 
 .section.portfolio-grid-banner {
   min-height: 450px;
-  background-image: url('../images/Slide-1-New-2-1.jpg');
+  background-image: url('/images/Slide-1-New-2-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -397,7 +397,7 @@ blockquote {
 
 .section.landing-banner {
   background-color: var(--light-green);
-  background-image: url('../images/Landing-Banner-image-2.png'), url('../images/Landing-Banner-image-1.png');
+  background-image: url('/images/Landing-Banner-image-2.png'), url('/images/Landing-Banner-image-1.png');
   background-position: 106% 45%, 4% 40%;
   background-repeat: no-repeat, no-repeat;
   background-size: 400px, 200px;
@@ -416,7 +416,7 @@ blockquote {
 }
 
 .section.with-parallax {
-  background-image: url('../images/Slide-1-New-2-1.jpg');
+  background-image: url('/images/Slide-1-New-2-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -439,7 +439,7 @@ blockquote {
 }
 
 .section.on-128 {
-  background-image: url('../images/Testemonials-Green-1-2.jpg');
+  background-image: url('/images/Testemonials-Green-1-2.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -454,7 +454,7 @@ blockquote {
 }
 
 .section.whatch-our-short-video {
-  background-image: linear-gradient(rgba(16, 57, 59, .7), rgba(16, 57, 59, .7)), url('../images/Home-2-Green-1-1-1-1.jpg');
+  background-image: linear-gradient(rgba(16, 57, 59, .7), rgba(16, 57, 59, .7)), url('/images/Home-2-Green-1-1-1-1.jpg');
   background-position: 0 0, 50% 0;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -465,7 +465,7 @@ blockquote {
 }
 
 .section.free-onsultation {
-  background-image: url('../images/Slide-1-New-2-1.jpg');
+  background-image: url('/images/Slide-1-New-2-1.jpg');
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -474,7 +474,7 @@ blockquote {
 }
 
 .section.get-a-free-quote {
-  background-image: url('../images/Group-25-3.png'), url('../images/Group-25-3.png');
+  background-image: url('/images/Group-25-3.png'), url('/images/Group-25-3.png');
   background-position: -51% 40%, 65% 40%;
   background-size: auto, auto;
   padding-top: 0;
@@ -482,7 +482,7 @@ blockquote {
 
 .section.parallax-background {
   background-color: var(--primary-light);
-  background-image: url('../images/FAQ-Bg-1.jpg');
+  background-image: url('/images/FAQ-Bg-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -491,7 +491,7 @@ blockquote {
 
 .section.about-us-banner-2 {
   min-height: 550px;
-  background-image: url('../images/Home-2-Green-1-1-1-1.jpg');
+  background-image: url('/images/Home-2-Green-1-1-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1713,18 +1713,18 @@ blockquote {
   min-height: 270px;
   min-width: 100%;
   color: var(--primary);
-  background-image: url('../images/pretty-woman-2.jpg');
+  background-image: url('/images/pretty-woman-2.jpg');
   background-position: 50% 34%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .team-card-image.architects {
-  background-image: url('../images/smiley-architect-1.jpg');
+  background-image: url('/images/smiley-architect-1.jpg');
 }
 
 .team-card-image.managers {
-  background-image: url('../images/Gallery-6-1.jpg');
+  background-image: url('/images/Gallery-6-1.jpg');
   background-position: 92% 34%;
 }
 
@@ -2154,7 +2154,7 @@ blockquote {
   width: 100%;
   height: 100%;
   min-height: 280px;
-  background-image: url('../images/Home-2-Green-1-1-1-1.jpg');
+  background-image: url('/images/Home-2-Green-1-1-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3174,7 +3174,7 @@ blockquote {
   width: 100%;
   min-height: 380px;
   text-align: center;
-  background-image: linear-gradient(rgba(55, 105, 255, .9), rgba(55, 105, 255, .9)), url('../images/jeremy-1.jpg');
+  background-image: linear-gradient(rgba(55, 105, 255, .9), rgba(55, 105, 255, .9)), url('/images/jeremy-1.jpg');
   background-position: 0 0, 100% 86%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -3225,7 +3225,7 @@ blockquote {
 .about-1-video {
   width: 80%;
   min-height: 440px;
-  background-image: url('../images/Gallery-2-2-1-1.jpg');
+  background-image: url('/images/Gallery-2-2-1-1.jpg');
   background-position: 50% 13%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3385,7 +3385,7 @@ blockquote {
   height: 400px;
   min-height: 400px;
   object-fit: cover;
-  background-image: url('../images/young-1.jpg');
+  background-image: url('/images/young-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3393,22 +3393,22 @@ blockquote {
 }
 
 .team-slider-image.slide-2 {
-  background-image: url('../images/smiley-architect-1.jpg');
+  background-image: url('/images/smiley-architect-1.jpg');
 }
 
 .team-slider-image.slide-3 {
-  background-image: url('../images/pretty-woman-2.jpg');
+  background-image: url('/images/pretty-woman-2.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .team-slider-image.slide-4 {
-  background-image: url('../images/Photo-2-1.jpg');
+  background-image: url('/images/Photo-2-1.jpg');
   background-position: -24% 3%;
 }
 
 .team-slider-image.slide-5 {
-  background-image: url('../images/happy-female-1-1.jpg');
+  background-image: url('/images/happy-female-1-1.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -3597,7 +3597,7 @@ blockquote {
 
 .about-3-image {
   width: 25%;
-  background-image: url('../images/Vector.png');
+  background-image: url('/images/Vector.png');
   background-position: 100%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -3605,17 +3605,17 @@ blockquote {
 }
 
 .about-3-image.team-2 {
-  background-image: url('../images/blueprints-894779_1920-1.png');
+  background-image: url('/images/blueprints-894779_1920-1.png');
   background-position: 50% 23%;
 }
 
 .about-3-image.team-3 {
-  background-image: url('../images/streetv3.png');
+  background-image: url('/images/streetv3.png');
   background-position: 50% 22%;
 }
 
 .about-3-image.team-4 {
-  background-image: url('../images/buildingv3.png');
+  background-image: url('/images/buildingv3.png');
   background-position: 75%;
   justify-content: center;
   align-items: center;
@@ -4404,7 +4404,7 @@ blockquote {
 .landing-download-block-wrapper {
   max-width: 1400px;
   background-color: var(--dark-green);
-  background-image: url('../images/Frame-47.png');
+  background-image: url('/images/Frame-47.png');
   background-position: 0%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -4837,11 +4837,11 @@ blockquote {
 }
 
 .photo.first-photo {
-  background-image: url('../images/Photoo-1-1.jpg');
+  background-image: url('/images/Photoo-1-1.jpg');
 }
 
 .photo.second-photo {
-  background-image: url('../images/Photo-2-1.jpg');
+  background-image: url('/images/Photo-2-1.jpg');
   margin-right: 60px;
 }
 
@@ -5013,7 +5013,7 @@ blockquote {
 .featured-background {
   z-index: -3;
   opacity: .05;
-  background-image: url('../images/BG-New-1.jpg');
+  background-image: url('/images/BG-New-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5525,7 +5525,7 @@ blockquote {
 }
 
 .top-section-home-2 {
-  background-image: url('../images/Home-2-Green-1-1-1-1.jpg');
+  background-image: url('/images/Home-2-Green-1-1-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5697,7 +5697,7 @@ blockquote {
 }
 
 .benefit-item {
-  background-image: url('../images/pexels-andrea-piacquadio-3978564-1-1.jpg');
+  background-image: url('/images/pexels-andrea-piacquadio-3978564-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5709,12 +5709,12 @@ blockquote {
 }
 
 .benefit-item.corporate {
-  background-image: url('../images/pexels-andrea-piacquadio-3978564-1-2.jpg');
+  background-image: url('/images/pexels-andrea-piacquadio-3978564-1-2.jpg');
   background-position: 50% 0;
 }
 
 .benefit-item.metal {
-  background-image: url('../images/construction_budget.png');
+  background-image: url('/images/construction_budget.png');
   background-position: 50% 0;
 }
 
@@ -5859,13 +5859,13 @@ blockquote {
 }
 
 .photo-content {
-  background-image: url('../images/jeremy-1.jpg');
+  background-image: url('/images/jeremy-1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .photo-content.large-photo {
-  background-image: url('../images/woman-men-1.jpg');
+  background-image: url('/images/woman-men-1.jpg');
   background-position: 85%;
   background-size: cover;
 }
@@ -5980,18 +5980,18 @@ blockquote {
 
 .case-study-image {
   height: 215px;
-  background-image: url('../images/jeremy-1.jpg');
+  background-image: url('/images/jeremy-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .case-study-image.outsourceo {
-  background-image: url('../images/factory-river-dusk-2-1.jpg');
+  background-image: url('/images/factory-river-dusk-2-1.jpg');
 }
 
 .case-study-image.moovit {
-  background-image: url('../images/back-view-man-1.jpg');
+  background-image: url('/images/back-view-man-1.jpg');
 }
 
 .case-study-content {
@@ -6033,7 +6033,7 @@ blockquote {
 
 .choose-us-image {
   height: 960px;
-  background-image: url('../images/3_2-screen-mockup-1.png');
+  background-image: url('/images/3_2-screen-mockup-1.png');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6142,7 +6142,7 @@ blockquote {
 .get-a-free-wrapper {
   width: 100%;
   height: 530px;
-  background-image: linear-gradient(#2678c5, #2678c5), url('../images/jeremy-1.jpg');
+  background-image: linear-gradient(#2678c5, #2678c5), url('/images/jeremy-1.jpg');
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
@@ -6152,7 +6152,7 @@ blockquote {
 
 .section-get-in-touch {
   background-color: var(--white);
-  background-image: url('../images/FAQ-Bg-1.jpg');
+  background-image: url('/images/FAQ-Bg-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6303,7 +6303,7 @@ blockquote {
 
 .section-home-3 {
   height: 90vh;
-  background-image: url('../images/Banner-Home-3-2-1-1.jpg');
+  background-image: url('/images/Banner-Home-3-2-1-1.jpg');
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6350,7 +6350,7 @@ blockquote {
 .offer-bg {
   width: 360px;
   height: 100%;
-  background-image: url('../images/Offer-1.jpg');
+  background-image: url('/images/Offer-1.jpg');
   background-position: 50% 16%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6485,7 +6485,7 @@ blockquote {
 }
 
 .building-everything-image {
-  background-image: url('../images/Gallery-6-1.jpg');
+  background-image: url('/images/Gallery-6-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6546,7 +6546,7 @@ blockquote {
 }
 
 .picture {
-  background-image: url('../images/young-1.jpg');
+  background-image: url('/images/young-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6558,14 +6558,14 @@ blockquote {
 }
 
 .picture.medium-picture {
-  background-image: url('../images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
+  background-image: url('/images/four-team-members-expressing-togetherness-1-1-1-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .picture.last-picture {
-  background-image: url('../images/smiley-architect-1.jpg');
+  background-image: url('/images/smiley-architect-1.jpg');
 }
 
 .we-work-with {
@@ -6604,7 +6604,7 @@ blockquote {
 }
 
 .case-image {
-  background-image: url('../images/jeremy-1.jpg');
+  background-image: url('/images/jeremy-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6613,13 +6613,13 @@ blockquote {
 }
 
 .case-image.mechanical-engineering {
-  background-image: url('../images/back-view-man-1.jpg');
+  background-image: url('/images/back-view-man-1.jpg');
   background-position: 50%;
   background-size: cover;
 }
 
 .case-image.project-planning {
-  background-image: url('../images/Metal-2-1-1.jpg');
+  background-image: url('/images/Metal-2-1-1.jpg');
   background-position: 50%;
   background-size: cover;
 }
@@ -6988,7 +6988,7 @@ blockquote {
 }
 
 .photo-for-video {
-  background-image: url('../images/Gallery-5-1.jpg');
+  background-image: url('/images/Gallery-5-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7060,7 +7060,7 @@ blockquote {
 .contact-image {
   width: 70px;
   height: 70px;
-  background-image: url('../images/Team-2-1.jpg');
+  background-image: url('/images/Team-2-1.jpg');
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -7069,15 +7069,15 @@ blockquote {
 }
 
 .contact-image.alena-due {
-  background-image: url('../images/Team-4-1.jpg');
+  background-image: url('/images/Team-4-1.jpg');
 }
 
 .contact-image.bob-gugo {
-  background-image: url('../images/Team-1-1.jpg');
+  background-image: url('/images/Team-1-1.jpg');
 }
 
 .contact-image.richard-branson {
-  background-image: url('../images/Team-5-1.jpg');
+  background-image: url('/images/Team-5-1.jpg');
 }
 
 .feedback-wrapper {
@@ -7191,7 +7191,7 @@ blockquote {
 }
 
 .block-quote-2 {
-  background-image: url('../images/“.svg');
+  background-image: url('/images/“.svg');
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: 25px;
@@ -7498,7 +7498,7 @@ blockquote {
   }
 
   .section.with-parallax {
-    background-image: linear-gradient(rgba(16, 57, 59, .81) 20%, rgba(0, 0, 0, 0)), url('../images/Slide-1-New-2-1.jpg');
+    background-image: linear-gradient(rgba(16, 57, 59, .81) 20%, rgba(0, 0, 0, 0)), url('/images/Slide-1-New-2-1.jpg');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -7522,7 +7522,7 @@ blockquote {
   }
 
   .section.get-more {
-    background-image: url('../images/Group-25-3.png');
+    background-image: url('/images/Group-25-3.png');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7535,7 +7535,7 @@ blockquote {
   }
 
   .section.more-case-studies {
-    background-image: url('../images/Group-25-3.png');
+    background-image: url('/images/Group-25-3.png');
     background-position: 240% 30%;
     background-repeat: no-repeat;
     background-size: auto;
@@ -7548,7 +7548,7 @@ blockquote {
 
   .section.feedback {
     z-index: 10;
-    background-image: url('../images/Group-25-3.png');
+    background-image: url('/images/Group-25-3.png');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -8453,7 +8453,7 @@ blockquote {
   }
 
   .team-slider-image.slide-5 {
-    background-image: url('../images/happy-female-1.jpg');
+    background-image: url('/images/happy-female-1.jpg');
     background-position: 50%;
   }
 
@@ -8597,7 +8597,7 @@ blockquote {
   }
 
   .service-list-2-bottom-contacts {
-    background-image: linear-gradient(to bottom, var(--dark-blue-shade), var(--dark-blue-shade)), url('../images/jeremy-1.jpg');
+    background-image: linear-gradient(to bottom, var(--dark-blue-shade), var(--dark-blue-shade)), url('/images/jeremy-1.jpg');
     background-position: 0 0, 100% 86%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -8678,21 +8678,21 @@ blockquote {
   }
 
   .benefit-item {
-    background-image: url('../images/pexels-andrea-piacquadio-3978564-1-1.jpg'), url('../images/factory-river-dusk-2-1.jpg');
+    background-image: url('/images/pexels-andrea-piacquadio-3978564-1-1.jpg'), url('/images/factory-river-dusk-2-1.jpg');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
   }
 
   .benefit-item.corporate {
-    background-image: url('../images/pexels-andrea-piacquadio-3978564-1-2.jpg'), url('../images/Home-33-1.jpg'), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: url('/images/pexels-andrea-piacquadio-3978564-1-2.jpg'), url('/images/Home-33-1.jpg'), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
     background-position: 0 0, 50% 0, 0 0;
     background-repeat: repeat, repeat, repeat;
     background-size: auto, auto, auto;
   }
 
   .benefit-item.metal {
-    background-image: url('../images/construction_budget.png'), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
+    background-image: url('/images/construction_budget.png'), linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));
     background-position: 50%, 0 0;
     background-repeat: repeat, repeat;
     background-size: cover, auto;
@@ -8723,7 +8723,7 @@ blockquote {
     grid-column-gap: 16px;
     grid-row-gap: 16px;
     -webkit-text-fill-color: inherit;
-    background-image: url('../images/3_2-screen-mockup-1.png');
+    background-image: url('/images/3_2-screen-mockup-1.png');
     background-position: 50%;
     background-repeat: no-repeat;
     background-clip: border-box;
@@ -8736,7 +8736,7 @@ blockquote {
   }
 
   .get-a-free-wrapper {
-    background-image: linear-gradient(rgba(55, 138, 255, .9), rgba(55, 138, 255, .9)), url('../images/jeremy-1.jpg');
+    background-image: linear-gradient(rgba(55, 138, 255, .9), rgba(55, 138, 255, .9)), url('/images/jeremy-1.jpg');
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -10285,7 +10285,7 @@ blockquote {
   }
 
   .section.landing-banner {
-    background-image: url('../images/Landing-Banner-image-2.png');
+    background-image: url('/images/Landing-Banner-image-2.png');
     background-position: 140% 72%;
     background-repeat: no-repeat;
     background-size: 350px;
@@ -11922,7 +11922,7 @@ blockquote {
   }
 
   .section.landing-banner {
-    background-image: url('../images/Landing-Banner-image-2.png');
+    background-image: url('/images/Landing-Banner-image-2.png');
     background-position: 116% 83%;
     background-repeat: no-repeat;
     background-size: 200px;
@@ -12731,7 +12731,7 @@ blockquote {
 
 @font-face {
   font-family: 'Fa brands 400';
-  src: url('../public/fonts/fa-brands-400.ttf') format('truetype');
+  src: url('/fonts/fa-brands-400.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -12739,7 +12739,7 @@ blockquote {
 
 @font-face {
   font-family: 'Fa solid 900';
-  src: url('../public/fonts/fa-solid-900.ttf') format('truetype');
+  src: url('/fonts/fa-solid-900.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -12747,7 +12747,7 @@ blockquote {
 
 @font-face {
   font-family: 'Materialicons';
-  src: url('../public/fonts/MaterialIcons-Regular.ttf') format('truetype');
+  src: url('/fonts/MaterialIcons-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -12755,7 +12755,7 @@ blockquote {
 
 @font-face {
   font-family: 'Fa 400';
-  src: url('../public/fonts/fa-regular-400.ttf') format('truetype');
+  src: url('/fonts/fa-regular-400.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
