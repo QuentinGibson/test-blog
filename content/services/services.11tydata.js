@@ -1,6 +1,4 @@
 module.exports = {
-  tags: [
-    "services"
-  ],
-  "layout": "service.njk",
+  tags: ["services"],
+  layout: "service.njk",
 };
