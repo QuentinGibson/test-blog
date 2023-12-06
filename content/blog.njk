@@ -4,7 +4,25 @@ eleventyNavigation:
   key: Archive
   order: 2
 ---
-<h1>Archive</h1>
 
-{% set postslist = collections.posts %}
-{% include "postslist.njk" %}
+<header class="section blog-grid-banner">
+  <div class="base-container w-container">
+    <div class="banner-title-wrapper">
+      <h1 class="banner-title">Blog</h1>
+    </div>
+  </div>
+</header>
+<main class="section blog-sidebar">
+  <div class="base-container w-container">
+    <div class="blog-sidebar-wrapper">
+      <div class="blog-sidebar-left-wrapper">
+        <div class="w-dyn-list">
+          <div role="list" class="blog-sidebar-left w-dyn-items">
+            {% set postslist = collections.posts %} {% include "postslist.njk"
+            %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
